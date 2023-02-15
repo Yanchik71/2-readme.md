@@ -55,4 +55,19 @@ nn=n.split()
 for x in nums:
     n=''.join(x)
     print(n )
+    
+    
+    
+    
+    16 задание
+ import sys
+setrecursionlimit (3050)
+def f(n):
+    if n<3:
+         return 2
+    elif n>2 and n&2==0:
+         return (f(n-1)+f(n-2)-n)
+    elif n>2 and n&2==1:
+       return (f(n-2)-f(n-1)+2*n)  
+print (f(30))
    
