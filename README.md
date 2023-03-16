@@ -306,8 +306,8 @@ for i in range (17,10**11,17):
  ```
  
  1. print  — функция вывода (например в консоль);  
- print('x y z w')
- print(f')
+
+  
   ``` 
 2. range — вернет последовательность чисел, с 0 до N (с шагом на 1 по умолчанию);
 ``` 
@@ -331,3 +331,37 @@ for i in range (17,10**11,17):
 ``` 
 12. abs — возвращает модуль числа; 
 ```
+ print('x y z w')
+ print(f')
+ 
+  if (not(y<=x) or (z<=w) or not(z))==False:
+  if not sp-
+  
+  num=(bin(i)[2:])
+  
+  if num.count('1'):
+  if all(num%delit!=0 for delit in range(2,num)):
+  if all(a)
+  
+  n=10%2
+  m=10//2
+  num=m+('10101',2)
+   break
+   continre
+   pass
+   forward(300)
+   right(120)
+   goto(x*30,y*30)
+   dot(5)
+   s.index('6')
+   .join(n)
+   n.split()
+   len(s)
+   s[0]- вызываем 1-ый элемент списка
+   from itertools import product
+   nums=product('01234567',repeat=5)
+   product символы из которых строится строка
+   repeat количество знаки 
+
+  
+  
